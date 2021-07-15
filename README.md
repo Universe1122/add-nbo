@@ -1,2 +1,2 @@
 # add-nbo
-bob 10th homework
+gil gil 멘토님 2번째 과제
